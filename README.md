@@ -28,12 +28,34 @@ python Dice_Simulator.py
 ## Example Output
 
 ```text
+## Example Output
+
+```text
 ====================================
 Welcome to the Dice Simulator Game
 ====================================
-Rolling Dice ...
 
-Result : 4
+Press Enter to Roll the Dice ....
+Rolling Dice...
+Result : 5
+
+Roll Again? (y/n): y
+
+Press Enter to Roll the Dice ....
+Rolling Dice...
+Result : 6
+
+Roll Again? (y/n): y
+
+Press Enter to Roll the Dice ....
+Rolling Dice...
+Result : 6
+
+Roll Again? (y/n): n
+
+Game Over!!
+```
+
 ```
 
 ## Project Objective
