@@ -56,7 +56,7 @@ Roll Again? (y/n): n
 Game Over!!
 ```
 
-```
+
 
 ## Project Objective
 
